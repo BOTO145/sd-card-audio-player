@@ -1,4 +1,3 @@
-```markdown
 # sd-card-audio-player
 
 A simple ESP32-based audio player that plays WAV files from an SD card.
